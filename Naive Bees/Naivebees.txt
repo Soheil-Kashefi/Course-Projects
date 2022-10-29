@@ -1,0 +1,3 @@
+This project has 3 series : 1- Image loading and processing 
+                            2- Predict Species from Pictures
+                            3- Deep learning with Images
