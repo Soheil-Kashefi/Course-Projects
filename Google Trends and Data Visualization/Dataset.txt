@@ -1,0 +1,3 @@
+# I found a challenge on the internet to find the popularity of Google Search Items. In this project, I wanted to check out "how search volume for 'bitcoin' relates to the price of Bitcoin", "how search volume for a hot stock like Tesla relates to that stock's price", and "How searches for 'Unemployment Benefits' vary with the actual unemployment rate in the United States".
+
+Moreover, I tried making a time-series data by resampling and converting daily data to monthly data - Used Matplotlib to visualize the data in the best observable way possible - Finding NaN values in a Dataframe
