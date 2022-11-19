@@ -1,0 +1,3 @@
+The project is provided by Datacamp.com
+
+Topics needed for this project : Importing & Cleaning Data, Data Manipulation, and Machine Learning
