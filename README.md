@@ -1,6 +1,6 @@
 # 🧠 Online Course Projects
 
-Welcome to the my course p repository! This space contains a curated collection of my learning journey through **DataCamp** 📚. It features hands-on projects, coding assignments, and optional exercises spanning a variety of core **Data Science** skills.
+Welcome to the my Course Projects repository! This space contains a curated collection of my learning journey through **DataCamp** 📚. It features hands-on projects, coding assignments, and optional exercises spanning a variety of core **Data Science** skills.
 
 ---
 
