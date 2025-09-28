@@ -1,3 +1,0 @@
-The project is provided by Datacamp.com
-
-Topics used in this project are: Importing & Cleaning Data, Data manipulation, Data Visualization, Machine Learning (Supervised Learning with Scikit-learn)
