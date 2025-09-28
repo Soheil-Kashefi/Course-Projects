@@ -75,18 +75,9 @@ Analyzing-Flight-Delays-and-Cancellations
 
 ---
 
-## 🎯 Business Impact
-
-This analysis provides actionable insights for
-- Airlines Route optimization and operational planning
-- Airport Operations Resource allocation during weather events
-- Passengers Informed travel decisions based on historical patterns
-- Policy Makers Understanding infrastructure needs and weather preparedness
-
----
-
 ## 📝 Data Sources
 
 Dataset ModernDive team - Pacific Northwest flights 2022 (H1)  
 Airports SEA (Seattle-Tacoma International), PDX (Portland International)  
 Time Period January - June 2022
+
