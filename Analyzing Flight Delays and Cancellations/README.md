@@ -33,12 +33,15 @@ Enhanced dataset combining flight data with weather conditions (29 variables)
 
 ## 🛠️ Technical Implementation
 
- Technology  Purpose 
----------------------
- Python  Primary programming language 
- pandas  Data manipulation and aggregation 
- matplotlib  Data visualization and plotting 
- Jupyter Notebook  Interactive development environment 
+## 🛠️ Technical Implementation
+
+| Technology       | Purpose                            |
+|------------------|------------------------------------|
+| Python           | Primary programming language       |
+| pandas           | Data manipulation and aggregation  |
+| matplotlib       | Data visualization and plotting    |
+| Jupyter Notebook | Interactive development environment|
+
 
 ---
 
@@ -72,5 +75,6 @@ Analyzing-Flight-Delays-and-Cancellations
 ├── flights_weather2022.csv             # Flight + weather data
 └── IMG_8801.JPG                        # Header image
 ```
+
 
 
