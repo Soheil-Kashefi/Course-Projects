@@ -73,11 +73,4 @@ Analyzing-Flight-Delays-and-Cancellations
 └── IMG_8801.JPG                        # Header image
 ```
 
----
-
-## 📝 Data Sources
-
-Dataset ModernDive team - Pacific Northwest flights 2022 (H1)  
-Airports SEA (Seattle-Tacoma International), PDX (Portland International)  
-Time Period January - June 2022
 
