@@ -33,8 +33,6 @@ Enhanced dataset combining flight data with weather conditions (29 variables)
 
 ## 🛠️ Technical Implementation
 
-## 🛠️ Technical Implementation
-
 | Technology       | Purpose                            |
 |------------------|------------------------------------|
 | Python           | Primary programming language       |
@@ -75,6 +73,7 @@ Analyzing-Flight-Delays-and-Cancellations
 ├── flights_weather2022.csv             # Flight + weather data
 └── IMG_8801.JPG                        # Header image
 ```
+
 
 
 
